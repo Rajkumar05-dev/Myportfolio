@@ -1132,7 +1132,7 @@ function App() {
               <div className="flex gap-4">
                 {[
                   { icon: <GithubIcon className="w-5 h-5" />, url: "https://github.com/Rajkumar05-dev", label: "GitHub" },
-                  { icon: <LinkedinIcon className="w-5 h-5" />, url: "https://linkedin.com/in/rajkumar-chauhan", label: "LinkedIn" },
+                  { icon: <LinkedinIcon className="w-5 h-5" />, url: "https://www.linkedin.com/in/rajkumarchauhan/", label: "LinkedIn" },
                   { icon: <InstagramIcon className="w-5 h-5" />, url: "https://instagram.com/_raj_chauhan2", label: "Instagram" }
                 ].map((s) => (
                   <a
